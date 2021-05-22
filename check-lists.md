@@ -1,4 +1,4 @@
-'Log In' checklist:
+## 'Log In' checklist:
 1. Check to exist of fields, buttons and links (Extended)
 2. Check the layout of the fields (Extended)
 3. Check error display (Extended)
@@ -18,7 +18,7 @@
 17. Check switching to another language (Critical pass)
 
 
-'Sign Up' checklist:
+## 'Sign Up' checklist:
 1. Check to exist of fields, buttons and messages with links (Extended)
 2. Check the layout of fields, buttons and messages with links (Extended)
 3. Check the success of the new user registration (Smoke)
@@ -38,7 +38,7 @@
 17. Check switching to another language (Extended)
 
 
-'Forgot Password' checklist:
+## 'Forgot Password' checklist:
 1. Check to exist of fields, buttons and links (Extended)
 2. Check the layout of the fields (Extended)
 3. Test the 'Cancel' button (Extended)
